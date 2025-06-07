@@ -29,6 +29,8 @@ L'ensemble du système sera alimenté par une solution solaire autonome : un pan
 
 Deux types de mesures pourront être effectués : soit une prise de son seule durant 24 heures, soit une prise de mesure d'humidité et de température avec trois sondes SHT31 réparties comme sur le schéma ci-dessous, ainsi qu'une prise de son de 10 minutes, le tout enregistré sur la carte SD.
 
+![image](https://github.com/user-attachments/assets/0bb17719-9a3e-4fd7-8da9-8ad5d7beec80)
+
 ---
 
 ## Analyse de la consommation et de l'autonomie
