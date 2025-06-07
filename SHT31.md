@@ -1,8 +1,5 @@
 ## Fiche Produit – **Capteur SHT31**
 
-![SHT31](https://cdn-shop.adafruit.com/970x728/2857-00.jpg)
-*Capteur de température et d’humidité – source : Adafruit*
-
 ### Description
 
 Capteur numérique de température et d’humidité à haute précision, idéal pour les environnements contrôlés.
