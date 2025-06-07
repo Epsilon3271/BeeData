@@ -10,7 +10,7 @@ Le projet **BeeData** a pour objectif de concevoir un système embarqué capable
 
 Pour mener à bien ce projet, les composants suivants seront utilisés :
 
-* [**ESP32**](#) : microcontrôleur principal, chargé de la gestion du système et de la communication.
+* [**ESP32**](Eps32.md) : microcontrôleur principal, chargé de la gestion du système et de la communication.
 * [**Un capteur de température et d'humidité SHT31**](#) : pour mesurer les conditions environnementales internes à la ruche.
 * [**Un micro INMP441**](#) : microphone numérique pour la détection sonore des activités des abeilles.
 * [**Module SPI**](#) : pour l’enregistrement des données sur une carte SD.
