@@ -23,7 +23,7 @@ Pour mener à bien ce projet, les composants suivants seront utilisés :
 
 ## Fonctionnement
 
-Les données mesurées par les capteurs seront dans un premier temps stockées sur une carte SD grâce au [module SPI](#). Une communication à distance en temps réel pourra ensuite être mise en place (par exemple via Wi-Fi ou LoRa, selon les contraintes du terrain).
+Les données mesurées par les capteurs seront dans un premier temps stockées sur une carte SD grâce au module SPI. Une communication à distance en temps réel pourra ensuite être mise en place (par exemple via Wi-Fi ou LoRa, selon les contraintes du terrain).
 
-L'ensemble du système sera alimenté par une solution solaire autonome : un [panneau solaire 10W 5V](#) rechargera une [batterie lithium-ion Li-Po 3.7V 5000mAh](#), elle-même gérée par le [MCP73871](#). La tension sera ensuite régulée pour alimenter l’[ESP32](#) grâce au [module MT3608](#).
+L'ensemble du système sera alimenté par une solution solaire autonome : un panneau solaire 10W 5V rechargera une batterie lithium-ion Li-Po 3.7V 5000mAh, elle-même gérée par le MCP73871. La tension sera ensuite régulée pour alimenter l’ESP32 grâce au module MT3608.
 
