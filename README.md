@@ -37,6 +37,14 @@ Deux types de mesures pourront être effectués : soit une prise de son seule du
 
 </div>
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/0bb17719-9a3e-4fd7-8da9-8ad5d7beec80" alt="image" width="400"/>
+
+**Schéma du cricuit électronique du projet**
+
+</div>
+
 ---
 
 ## Analyse de la consommation et de l'autonomie
