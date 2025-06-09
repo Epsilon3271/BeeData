@@ -18,3 +18,4 @@ Batterie rechargeable à haute capacité, idéale pour alimenter des systèmes e
 * **Capacité :** 5000 mAh
 * **Courant max recommandé :** \~1–2 C selon modèle
 
+[**Lien Amazon**](https://www.amazon.fr/gp/product/B0F9XHV3J2/ref=ox_sc_act_title_1?smid=A29YMZ0ZCQCK4P&psc=1)
