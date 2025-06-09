@@ -18,4 +18,4 @@ Capteur numérique de température et d’humidité à haute précision, idéal 
 * **Entrée :** 2.4V – 5.5V
 * **Consommation :** \~150 µA (mesure) / \~0.5 µA (veille)
 
-[**Lien Amazon**](www.amazon.fr/gp/product/B08F56DZKH/ref=ox_sc_act_title_1?smid=APV2GPY83EJNN&psc=1)
+[**Lien Amazon**](https://www.amazon.fr/gp/product/B08F56DZKH/ref=ox_sc_act_title_1?smid=APV2GPY83EJNN&psc=1)
