@@ -2,7 +2,7 @@
 
 ---
 
-### 🔧 Description
+### Description
 
 Panneau solaire portable d’une puissance de **10W**, délivrant une tension de **5V** via un port USB intégré. Idéal pour recharger des batteries, des ESP32 ou alimenter de petits projets autonomes en extérieur.
 
@@ -17,3 +17,5 @@ Panneau solaire portable d’une puissance de **10W**, délivrant une tension de
 * **Dimensions :** 260 x 150 mm (approximatif)
 * **Poids :** env. 300 g
 * **Matériaux :** Cellules monocristallines avec surface étanche et rigide
+
+[**Lien Amazon**](https://www.amazon.fr/gp/product/B0BFGTSJSW/ref=ox_sc_act_title_5?smid=A68YOTXQQLJUV&psc=1)
